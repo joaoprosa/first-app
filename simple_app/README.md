@@ -1,6 +1,6 @@
-# simple_app
+# simpleapp
 
-Simple app for training
+A new Flutter application.
 
 ## Getting Started
 
